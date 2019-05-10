@@ -1,0 +1,17 @@
+body { font-family: 'Akronim', cursive; text-align: center; background-color: #e7e7e7; max-width: 980px; margin: 0 auto; }
+
+nav { text-align: right; }
+
+h2 { font-size: 50px; color: rgb(117, 56, 56); text-align: center; cursor: pointer; }
+
+p { font-size: 20px;  }
+
+span { font-size: 5rem;; }
+
+li { list-style: none; display: inline-block; color: royalblue;  }
+
+img { float: right; }
+
+footer { clear: both; text-align: center; font-style: 14px; color: hotpink; }
+
+.boxmodul { font-size:55px; line-height: 1; font-family: Verdana, Geneva, Tahoma, sans-serif; display: inline-block; border: solid 5px plum; padding: 5px 20px; margin: 0 20px; }

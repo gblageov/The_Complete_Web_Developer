@@ -3,7 +3,7 @@
 **w3school - Exersise: from leson 06**
 * https://www.w3schools.com/css/exercise.asp
 
-  -- CSS Font
+  -- CSS Positioning
 
 **Resources**
 * https://zero-to-mastery.github.io/resources/ 

@@ -3,8 +3,7 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 }
 
-.robots {
-}
+.robots { display: flex; justify-content: center; }
 
 .head, 
 .left_arm, 
@@ -23,9 +22,7 @@ h1 {
 	margin-bottom: 10px;
 } 
 
-.eyes {
-	
-}
+.eyes { display: flex; }
 
 .head:hover {
 	width: 300px;
@@ -58,13 +55,8 @@ h1 {
 	border-radius: 0 0 50px 50px; 
 } 
 
-.lower_body { 
-	width: 200px; 
-	height: 200px;
-	/* This is another useful property. Hmm what do you think it does?*/
-	margin: 0 auto;
-
-} 
+/* This is another useful property. Hmm what do you think it does?*/
+.lower_body { display: flex; width: 200px; height: 200px; margin: 0 auto; } 
 
 .left_leg, .right_leg { 
 	width: 40px; 

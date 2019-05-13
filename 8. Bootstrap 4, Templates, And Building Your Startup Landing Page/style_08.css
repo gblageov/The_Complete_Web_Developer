@@ -1,0 +1,8 @@
+.row { display: flex; justify-content: center; }
+.col { margin-right: 10px; background-color: rgba(134, 48, 134, 0.2); border: 2px solid black;max-width: 450px; height: 400px }
+
+@media (max-width: 990px){ .cal{ margin-top: 10px; } }
+
+
+@media (min-width: 768px)
+.cal{ .col{  } }
